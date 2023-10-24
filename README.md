@@ -10,6 +10,10 @@ You need to pass 5 milestones. Each one is worth 2 points, so that should be 10 
      - [apiman](https://www.apiman.io/)
      - [cloudrail](https://cloudrail.com/)
   - Document yourself on the [Scrum workflow](https://www.youtube.com/watch?v=_BWbaZs1M_8).
+  - Methodology could be:
+    - Scrum
+    - Kanban
+    - Extreme Programming
 2. Your git repository:
    - [github](https://github.com)
    - [bitbucket](https://bitbucket.org)
