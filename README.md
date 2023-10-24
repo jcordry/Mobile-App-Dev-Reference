@@ -2,7 +2,7 @@
 
 ## Milestone
 
-For your milestones, you want to might have:
+You need to pass 5 milestones. Each one is worth 2 points, so that should be 10 points altogether that can go towards your final mark. For your milestones, you want to might have:
 
 1. Your form from week 3.
    - Potentially include some API. Here is where you can find some API:
