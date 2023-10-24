@@ -5,7 +5,7 @@
 For your milestones, you want to might have:
 
 1. Your form from week 3.
-   - Potentially include some API:
+   - Potentially include some API. Here is where you can find some API:
      - [rapidAPI](https://rapidapi.com/)
      - [apiman](https://www.apiman.io/)
      - [cloudrail](https://cloudrail.com/)
