@@ -11,6 +11,7 @@ you want to might have:
      - [rapidAPI](https://rapidapi.com/)
      - [apiman](https://www.apiman.io/)
      - [cloudrail](https://cloudrail.com/)
+     - [apilist](https://apislist.com/)
   - Document yourself on the [Scrum workflow](https://www.youtube.com/watch?v=_BWbaZs1M_8).
   - Methodology could be:
     - Scrum,
