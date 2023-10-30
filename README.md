@@ -8,15 +8,15 @@ you want to might have:
 
 1. Your form from week 3.
    - Potentially include some API. Here is where you can find some API:
-     - [rapidAPI](https://rapidapi.com/)
+     - [apilist](https://apislist.com/)
      - [apiman](https://www.apiman.io/)
      - [cloudrail](https://cloudrail.com/)
-     - [apilist](https://apislist.com/)
+     - [rapidAPI](https://rapidapi.com/)
   - Document yourself on the [Scrum workflow](https://www.youtube.com/watch?v=_BWbaZs1M_8).
   - Methodology could be:
-    - Scrum,
+    - Extreme Programming,
     - Kanban,
-    - Extreme Programming...
+    - Scrum...
 2. Your git repository:
    - [github](https://github.com)
    - [bitbucket](https://bitbucket.org)
@@ -30,6 +30,14 @@ you want to might have:
   - [pivotal tracker](https://www.pivotaltracker.com/)
 
 You can change your app idea later on! Document it!
+
+## On a weekly basis
+
+We regularly want to take a snapshot in time of the project in the course of
+completion. Git does that for the code. You could populate your report with:
+
+- Screenshots of your Trello board,
+- Screenshots of your designs.
 
 ## Submission
 
