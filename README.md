@@ -39,6 +39,10 @@ completion. Git does that for the code. You could populate your report with:
 - Screenshots of your Trello board,
 - Screenshots of your designs.
 
+If you go with sprints, do that for every sprint. That could be one for every
+milestone, and you sprints are now about one week long if you started during
+week 5.
+
 ## Submission
 
 Don't forget that you want to submit the following:
